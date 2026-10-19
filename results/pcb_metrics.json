@@ -1,0 +1,57 @@
+[
+  {
+    "keypoints": 1625,
+    "matches": 53,
+    "inliers": 19,
+    "reprojection": 1.4648423194885254,
+    "name": "AAAA1.jpg",
+    "coverage": 0.8862302371541502,
+    "before": 49.74277994272642,
+    "raw": 27.97937073398263,
+    "changed": 0.19687931479839962
+  },
+  {
+    "keypoints": 4438,
+    "matches": 311,
+    "inliers": 180,
+    "reprojection": 0.47155117988586426,
+    "name": "ADAD1.jpg",
+    "coverage": 0.9785614295125165,
+    "before": 31.09365388580108,
+    "raw": 30.92201385937822,
+    "changed": 0.29241520913187447
+  },
+  {
+    "keypoints": 5510,
+    "matches": 2728,
+    "inliers": 2459,
+    "reprojection": 0.299348384141922,
+    "name": "AECC2.jpg",
+    "coverage": 0.9800494071146245,
+    "before": 9.676718155022972,
+    "raw": 2.328322292912285,
+    "changed": 0.0009091122963739694
+  },
+  {
+    "keypoints": 5344,
+    "matches": 3128,
+    "inliers": 2858,
+    "reprojection": 0.2656008303165436,
+    "name": "AECC3.jpg",
+    "coverage": 0.9851622200263505,
+    "before": 8.522888611571062,
+    "raw": 2.0740081963855994,
+    "changed": 0.00034186433920297966
+  },
+  {
+    "keypoints": 5639,
+    "matches": 2763,
+    "inliers": 2478,
+    "reprojection": 0.31465137004852295,
+    "name": "AECC4.jpg",
+    "coverage": 0.9810869565217392,
+    "before": 9.696763222743723,
+    "raw": 2.9933819135292654,
+    "changed": 0.0016257746980104615
+  }
+]
